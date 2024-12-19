@@ -1,0 +1,72 @@
+{
+  "golden_dataset":{
+    "0a86bfbb-e602-3001-836d-33a7a0b38039":{
+      "delivery_uuid": "0a86bfbb-e602-3001-836d-33a7a0b38039",
+      "grand_total": {
+        "money": {
+          "unit_amount": 2780,
+          "currency": "USD",
+          "display_string": "$"
+        },
+        "confidence_score": 1.0
+      },
+      "subtotal": {
+        "money": {
+          "unit_amount": 2598,
+          "currency": "USD",
+          "display_string": "$"
+        },
+        "confidence_score": 1.0
+      },
+      "tax_amount": {
+        "money": {
+          "unit_amount": 182,
+          "currency": "USD",
+          "display_string": "$"
+        },
+        "confidence_score": 1.0
+      },
+      "matched_item_info": [
+        {
+          "merchant_supplied_id": "00082734001096",
+          "display_name": "Casillero Del Diablo Cabernet Sauvignon (750 ml)",
+          "ocr_description": "CYT CASILLERO D D NP",
+          "price_per_unit": {
+          	"unit_amount": 1299
+          },
+          "sold_by_weight": false
+        },
+        {
+          "merchant_supplied_id": "00088474018202",
+          "display_name": "Schmitt Sohne Blue Qba Riesling Bottle (750 ml)",
+          "ocr_description": "SCMIITT S B RIES NP",
+          "price_per_unit": {
+          	"unit_amount": 1299
+          },
+          "sold_by_weight": false
+        }
+      ],
+      "unmatched_item_info": [],
+      "bag_fee": {
+        "price_per_unit": {
+          "unit_amount": 0,
+          "currency": "USD",
+          "display_string": "$",
+          "decimal_places": 2
+        },
+        "confidence_score": 1.0
+      },
+      "bottle_fee": {
+        "item_price": {
+          "unit_amount": 0,
+          "currency": "USD",
+          "display_string": "$",
+          "decimal_places": 2
+        }
+      },
+      "confidence_score": 1.0,
+      "is_legible": true
+    }
+  },
+  "error_case_dataset":{}
+}
