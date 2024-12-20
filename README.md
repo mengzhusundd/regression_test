@@ -2,7 +2,7 @@
 
 # Golden Dataset is ready to use in golden_dataset.json!
 
-## This is a very simple tool to generate golden dataset
+## This repository is also a very simple tool to generate more baseline data in the golden dataset
 
 1. git clone this repository to your local 
 2. `cd` to your `regression_test` directory, run `python get_sql.py`to generate sql for MODE
@@ -11,4 +11,4 @@
 5. copy - paste the generated golden dataset into runtime file 
 
 ## Notes
-* There are 41 available examples in the golden dataset
+* There are currently 41 available examples in the golden dataset as for 12/20/2024
