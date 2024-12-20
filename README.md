@@ -1,4 +1,6 @@
-# regression_test: golden dataset generate manual
+# regression_test
+
+# Golden Dataset is ready to use in golden_dataset.json!
 
 ## This is a very simple tool to generate golden dataset
 
