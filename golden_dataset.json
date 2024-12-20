@@ -1,75 +1,6 @@
 {
-  "golden_dataset":[
-    {
-      "delivery_uuid":"0a86bfbb-e602-3001-836d-33a7a0b38039",
-      "grand_total":{
-        "money":{
-          "unit_amount":2780,
-          "currency":"USD",
-          "display_string":"$"
-        },
-        "confidence_score":1.0
-      },
-      "subtotal":{
-        "money":{
-          "unit_amount":2598,
-          "currency":"USD",
-          "display_string":"$"
-        },
-        "confidence_score":1.0
-      },
-      "tax_amount":{
-        "money":{
-          "unit_amount":182,
-          "currency":"USD",
-          "display_string":"$"
-        },
-        "confidence_score":1.0
-      },
-      "matched_item_info":[
-        {
-          "merchant_supplied_id":"00082734001096",
-          "display_name":"Casillero Del Diablo Cabernet Sauvignon (750 ml)",
-          "ocr_description":"CYT CASILLERO D D NP",
-          "price_per_unit":{
-            "unit_amount":1299
-          },
-          "sold_by_weight":false
-        },
-        {
-          "merchant_supplied_id":"00088474018202",
-          "display_name":"Schmitt Sohne Blue Qba Riesling Bottle (750 ml)",
-          "ocr_description":"SCMIITT S B RIES NP",
-          "price_per_unit":{
-            "unit_amount":1299
-          },
-          "sold_by_weight":false
-        }
-      ],
-      "unmatched_item_info":[
-        
-      ],
-      "bag_fee":{
-        "price_per_unit":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"$",
-          "decimal_places":2
-        },
-        "confidence_score":1.0
-      },
-      "bottle_fee":{
-        "item_price":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"$",
-          "decimal_places":2
-        }
-      },
-      "confidence_score":1.0,
-      "is_legible":true
-    },
-    {
+  "golden_dataset":{
+    "d88598a9-88aa-3001-a968-8d35ddcb3648":{
       "delivery_uuid":"d88598a9-88aa-3001-a968-8d35ddcb3648",
       "grand_total":{
         "money":{
@@ -702,7 +633,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "be83aa05-0f8b-3001-9a66-c43334395131":{
       "delivery_uuid":"be83aa05-0f8b-3001-9a66-c43334395131",
       "grand_total":{
         "money":{
@@ -1251,7 +1182,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "40e1287d-dbfe-3001-b879-c1100f5d695d":{
       "delivery_uuid":"40e1287d-dbfe-3001-b879-c1100f5d695d",
       "grand_total":{
         "money":{
@@ -1380,7 +1311,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "e5c20670-604d-3001-9715-690d24facdad":{
       "delivery_uuid":"e5c20670-604d-3001-9715-690d24facdad",
       "grand_total":{
         "money":{
@@ -2097,7 +2028,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "9b256a6d-4570-3001-8dab-e88541c4c745":{
       "delivery_uuid":"9b256a6d-4570-3001-8dab-e88541c4c745",
       "grand_total":{
         "money":{
@@ -2352,7 +2283,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "59b1d079-7748-3001-be02-fe24bce3f989":{
       "delivery_uuid":"59b1d079-7748-3001-be02-fe24bce3f989",
       "grand_total":{
         "money":{
@@ -2985,7 +2916,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "3b8e4beb-0bfc-3001-8cf7-6698b1f7011d":{
       "delivery_uuid":"3b8e4beb-0bfc-3001-8cf7-6698b1f7011d",
       "grand_total":{
         "money":{
@@ -3660,7 +3591,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "11662645-f01a-3001-bc4e-86a1e677fe3b":{
       "delivery_uuid":"11662645-f01a-3001-bc4e-86a1e677fe3b",
       "grand_total":{
         "money":{
@@ -3957,7 +3888,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "bf55446e-9196-3001-906d-d27e5f6f5732":{
       "delivery_uuid":"bf55446e-9196-3001-906d-d27e5f6f5732",
       "grand_total":{
         "money":{
@@ -4716,724 +4647,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
-      "delivery_uuid":"e5c20670-604d-3001-9715-690d24facdad",
-      "grand_total":{
-        "money":{
-          "unit_amount":7386,
-          "currency":"USD",
-          "display_string":"None73.86",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "subtotal":{
-        "money":{
-          "unit_amount":7386,
-          "currency":"USD",
-          "display_string":"None73.86",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "tax_amount":{
-        "money":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "matched_item_info":[
-        {
-          "merchant_supplied_id":"11150263",
-          "display_name":"Welch's Island Fruits Fruit Snacks (0.8 oz x 10 ct)",
-          "ocr_description":"WELCHS FRUIT SNACK",
-          "quantity":{
-            "value":1.0
-          },
-          "price_per_unit":{
-            "unit_amount":399,
-            "currency":"USD",
-            "display_string":"None3.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":399,
-            "currency":"USD",
-            "display_string":"None3.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"36400113",
-          "display_name":"Kozy Shack Gluten Free Original Recipe Rice Pudding (22 oz)",
-          "ocr_description":"KOZY SHACK RCE PD",
-          "quantity":{
-            "value":1.0
-          },
-          "price_per_unit":{
-            "unit_amount":479,
-            "currency":"USD",
-            "display_string":"None4.79",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":479,
-            "currency":"USD",
-            "display_string":"None4.79",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":519,
-            "currency":"USD",
-            "display_string":"None5.19",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":519,
-            "currency":"USD",
-            "display_string":"None5.19",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"88550189",
-          "display_name":"Johnsonville Smoked Bratwurst (14 oz)",
-          "ocr_description":"JV BRATWURST SMK",
-          "quantity":{
-            "value":1.0
-          },
-          "price_per_unit":{
-            "unit_amount":499,
-            "currency":"USD",
-            "display_string":"None4.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":499,
-            "currency":"USD",
-            "display_string":"None4.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":699,
-            "currency":"USD",
-            "display_string":"None6.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":699,
-            "currency":"USD",
-            "display_string":"None6.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84650915",
-          "display_name":"Signature Farms Spinach (8 oz)",
-          "ocr_description":"S SEL/FRMS SPINACH",
-          "quantity":{
-            "value":1.0
-          },
-          "price_per_unit":{
-            "unit_amount":249,
-            "currency":"USD",
-            "display_string":"None2.49",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":249,
-            "currency":"USD",
-            "display_string":"None2.49",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84420001_NONWI_1EA",
-          "display_name":"Iceberg Lettuce",
-          "ocr_description":"ICEBERG LETTUCE",
-          "quantity":{
-            "value":2.0
-          },
-          "price_per_unit":{
-            "unit_amount":299,
-            "currency":"USD",
-            "display_string":"None2.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":598,
-            "currency":"USD",
-            "display_string":"None5.98",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84420018_NONWI_1EA",
-          "display_name":"Green Leaf Lettuce",
-          "ocr_description":"GREEN LEAF LETTUCE",
-          "quantity":{
-            "value":2.0
-          },
-          "price_per_unit":{
-            "unit_amount":299,
-            "currency":"USD",
-            "display_string":"None2.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":598,
-            "currency":"USD",
-            "display_string":"None5.98",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84120175_WI_1LB",
-          "display_name":"Bartlett Pear (each)",
-          "ocr_description":"BARTLETT PEARS",
-          "quantity":{
-            "value":0.82
-          },
-          "price_per_unit":{
-            "unit_amount":289,
-            "currency":"USD",
-            "display_string":"None2.89",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":237,
-            "currency":"USD",
-            "display_string":"None2.37",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":true,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84540021_WI_1LB",
-          "display_name":"Ginger Root (each)",
-          "ocr_description":"GINGER ROOT",
-          "quantity":{
-            "value":0.15
-          },
-          "price_per_unit":{
-            "unit_amount":400,
-            "currency":"USD",
-            "display_string":"None4.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":60,
-            "currency":"USD",
-            "display_string":"None0.60",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":true,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84060007_WI_1LB",
-          "display_name":"Banana (each)",
-          "ocr_description":"BANANAS GREEN",
-          "quantity":{
-            "value":1.83
-          },
-          "price_per_unit":{
-            "unit_amount":99,
-            "currency":"USD",
-            "display_string":"None0.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":181,
-            "currency":"USD",
-            "display_string":"None1.81",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":true,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84070057",
-          "display_name":"Driscoll's Fresh Blackberries (18 oz)",
-          "ocr_description":"BLACKBERRIES 18 OZ",
-          "quantity":{
-            "value":1.0
-          },
-          "price_per_unit":{
-            "unit_amount":699,
-            "currency":"USD",
-            "display_string":"None6.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":699,
-            "currency":"USD",
-            "display_string":"None6.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84700555_NONWI_1EA",
-          "display_name":"Organic Honeydew Melon (each)",
-          "ocr_description":"ORG HONEYDEW MELON",
-          "quantity":{
-            "value":1.0
-          },
-          "price_per_unit":{
-            "unit_amount":599,
-            "currency":"USD",
-            "display_string":"None5.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":599,
-            "currency":"USD",
-            "display_string":"None5.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84070034",
-          "display_name":"Prepacked Strawberries (1 lb)",
-          "ocr_description":"STRAWBERRIES 1LB",
-          "quantity":{
-            "value":1.0
-          },
-          "price_per_unit":{
-            "unit_amount":334,
-            "currency":"USD",
-            "display_string":"None3.34",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":334,
-            "currency":"USD",
-            "display_string":"None3.34",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":664,
-            "currency":"USD",
-            "display_string":"None6.64",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":664,
-            "currency":"USD",
-            "display_string":"None6.64",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":false,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84700199_WI_1LB",
-          "display_name":"Organic White Peach (each)",
-          "ocr_description":"ORG WHITE PEACHES",
-          "quantity":{
-            "value":2.6
-          },
-          "price_per_unit":{
-            "unit_amount":469,
-            "currency":"USD",
-            "display_string":"None4.69",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":1219,
-            "currency":"USD",
-            "display_string":"None12.19",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":true,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84140133_WI_1LB",
-          "display_name":"Large White Nectarine (each)",
-          "ocr_description":"NECTARINES WHITE",
-          "quantity":{
-            "value":1.94
-          },
-          "price_per_unit":{
-            "unit_amount":369,
-            "currency":"USD",
-            "display_string":"None3.69",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":716,
-            "currency":"USD",
-            "display_string":"None7.16",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":true,
-          "confidence_score":1.0
-        },
-        {
-          "merchant_supplied_id":"84260002_WI_1LB",
-          "display_name":"Asparagus (bunch)",
-          "ocr_description":"ASPARAGUS GREEN",
-          "quantity":{
-            "value":0.98
-          },
-          "price_per_unit":{
-            "unit_amount":499,
-            "currency":"USD",
-            "display_string":"None4.99",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":489,
-            "currency":"USD",
-            "display_string":"None4.89",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":true,
-          "confidence_score":1.0
-        }
-      ],
-      "unmatched_item_info":[
-        
-      ],
-      "bag_fee":{
-        "quantity":{
-          "value":3.0
-        },
-        "price_per_unit":{
-          "unit_amount":10,
-          "currency":"USD",
-          "display_string":"None0.10",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "item_price":{
-          "unit_amount":30,
-          "currency":"USD",
-          "display_string":"None0.30",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "bottle_fee":{
-        "quantity":{
-          "value":0
-        },
-        "price_per_unit":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "item_price":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "confidence_score":1.0,
-      "is_legible":true
-    },
-    {
+    "6ad69cdd-50a5-3001-86ae-f0f16f090980":{
       "delivery_uuid":"6ad69cdd-50a5-3001-86ae-f0f16f090980",
       "grand_total":{
         "money":{
@@ -5646,7 +4860,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "e8795240-f2ed-3001-874c-d728c85363be":{
       "delivery_uuid":"e8795240-f2ed-3001-874c-d728c85363be",
       "grand_total":{
         "money":{
@@ -6195,7 +5409,7 @@
       "confidence_score":1.0,
       "is_legible":true
     },
-    {
+    "ca83ea5e-c083-3001-aa6f-248a8622db07":{
       "delivery_uuid":"ca83ea5e-c083-3001-aa6f-248a8622db07",
       "grand_total":{
         "money":{
@@ -6869,137 +6083,8 @@
       },
       "confidence_score":1.0,
       "is_legible":true
-    },
-    {
-      "delivery_uuid":"40e1287d-dbfe-3001-b879-c1100f5d695d",
-      "grand_total":{
-        "money":{
-          "unit_amount":17375,
-          "currency":"USD",
-          "display_string":"None173.75",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "subtotal":{
-        "money":{
-          "unit_amount":17375,
-          "currency":"USD",
-          "display_string":"None173.75",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "tax_amount":{
-        "money":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "matched_item_info":[
-        {
-          "merchant_supplied_id":"40900006_WI_1LB",
-          "display_name":"Dry Ice Bulk (by pound)",
-          "ocr_description":"DRY ICE BULK",
-          "quantity":{
-            "value":69.78
-          },
-          "price_per_unit":{
-            "unit_amount":249,
-            "currency":"USD",
-            "display_string":"None2.49",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "item_price":{
-            "unit_amount":17375,
-            "currency":"USD",
-            "display_string":"None173.75",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_price_per_unit":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "non_discount_item_price":{
-            "unit_amount":0,
-            "currency":"USD",
-            "display_string":"None0.00",
-            "decimal_places":2,
-            "sign":null,
-            "symbol":null
-          },
-          "sold_by_weight":true,
-          "confidence_score":1.0
-        }
-      ],
-      "unmatched_item_info":[
-        
-      ],
-      "bag_fee":{
-        "quantity":{
-          "value":0
-        },
-        "price_per_unit":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "item_price":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "bottle_fee":{
-        "quantity":{
-          "value":0
-        },
-        "price_per_unit":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "item_price":{
-          "unit_amount":0,
-          "currency":"USD",
-          "display_string":"None0.00",
-          "decimal_places":2,
-          "sign":null,
-          "symbol":null
-        },
-        "confidence_score":1.0
-      },
-      "confidence_score":1.0,
-      "is_legible":true
     }
-  ],
+  },
   "error_case_dataset":{
     
   }

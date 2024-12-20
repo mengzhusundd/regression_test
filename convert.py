@@ -17,11 +17,13 @@ data_frame = pd.read_csv(file_name)
 for raw_result in data_frame['PREDICTION_RESULT']:
 
     json_result = json.loads(raw_result)
+    delivery_uuid = ""
     result_str = ["" for i in range (10)]
     for item in json_result:
         value = item['value']
         if item['key'] == 'delivery_uuid':
             result_str[0] = "\"delivery_uuid\": {},".format(value)
+            delivery_uuid = value
         # total amount is the same thing as grand total 
         if item['key'] == 'total_amount':
             result_str[1] = "\"grand_total\": {},".format(value)
@@ -41,9 +43,11 @@ for raw_result in data_frame['PREDICTION_RESULT']:
             result_str[8] = "\"confidence_score\": {},".format(value)
         if item['key'] == 'is_legible':
             result_str[9] = "\"is_legible\": {}".format(value)
+    print("{}: ".format(delivery_uuid))
     print("{")
     for elm in result_str:
         print(elm)
         print()
-    print("}")
-    print("============ NEXT DELIVERY =============")
+    print("},")
+    print()
+    print()
