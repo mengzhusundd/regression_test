@@ -8,3 +8,5 @@
 4. Still under `regression_test` repository, run `python convert.py` to convert the csv file dump into a json format golden dataset
 5. copy - paste the generated golden dataset into runtime file 
 
+## Notes
+* There are 41 available examples in the golden dataset
