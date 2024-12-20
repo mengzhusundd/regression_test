@@ -11,7 +11,7 @@ class MonetaryData:
         self.displayString = displayString
         self.decimalPlace = decimalPlace
 
-file_name = "query_result.csv"
+file_name = "rest_query_result.csv"
 
 data_frame = pd.read_csv(file_name)
 for raw_result in data_frame['PREDICTION_RESULT']:
